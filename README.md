@@ -1,6 +1,5 @@
-# EK_poule_ding
+# Nerdy Soccer Scores
 
-I hacked together a simple python script to generate football scores to use in a betting competition for the European Championships in my workplace.
-It uses a weighted table of the 15 most common soccer scores according to https://footystats.org/stats/common-score
+Around all big soccer tournaments football fans at my workplace start betting competitions (poules) predicting the scores and winners of the tournamen
 
-I used it to generate results to score the entire tournament beforehand, intending not to look at it again until the tourney finishes to see how my statistsics fare against collegues who actually know anything about football.
+I figured I would combine my lack of football knowledge and my confidence in python and statistics to build a simple script to generate plausible scores to use for joining the betting competition and actually standing a chance (and proving a point in the process :))
